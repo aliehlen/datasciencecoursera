@@ -16,7 +16,10 @@ Note: all values are noralized to [-1,1].
 This data was compiled from features.txt (feature names), activity_labels.tst (mapping of activity label numbers to descriptions), train/X_train.txt(data for all features), train/y_train.txt (activity labels for each observation), train/subject_train.txt (subject number for each observation), and test/X_test.txt, test/y_test.txt, and test/subject_test.csv.
 
 
-## Original codebook
+=================
+=================
+=================
+## Copy of original codebook
 
 Feature Selection
 =================

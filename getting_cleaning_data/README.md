@@ -6,7 +6,10 @@ run\_analysis.R contains code that pulls from the mean and standard deviation of
 
 CodeBook.md compiles and modifies the codebook in the database, describing the variables in the output, tidy dataset.
 
-## Original README
+==================================================================
+==================================================================
+==================================================================
+## Copy of original README
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
